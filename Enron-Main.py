@@ -143,7 +143,7 @@ word=vectorizer.get_feature_names()#获取词袋模型中的所有词语
 weight=tfidf.toarray()#将tf-idf矩阵抽取出来，元素a[i][j]表示j词在i类文本中的tf-idf权重
 
 #挑选出每个发送者所有邮件内容中TF-IDF值最大的词，建立KeyWordSet
-KeyWordSet中每个单词作为一个bool类型的特征
+#KeyWordSet中每个单词作为一个bool类型的特征
 KeyWordSet = set()
 for i in range(weight.shape[0]):
    KeyWordSet.add(word[weight[i].argmax()])

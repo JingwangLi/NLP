@@ -1,0 +1,22 @@
+I've heard some mumbling about problems with EES deals, so this doesn't come 
+as much of a surprise. Here's what I've done:
+
+On the first deal, #481619, I'd feel more comfortable if Mike Swerzbin, the 
+trader who did the deal, gave his okay to change the price. I've left a 
+message with him to verify the price, and at the very latest I'll see him 
+tomorrow morning.
+
+Deal #480433 cannot be killed because it contains liquidated strips; however, 
+it looks like Phil Platter, the Short Term California scheduler, has alreday 
+zeroed out the deal. Will this work? Or is there another method by which I 
+can go about killing a deal? (Sorry to ask so many questions, but 90% of our 
+office is already gone for the holidays and quite difficult to get ahold of.)
+
+I've changed #481620. I think the trader just overcompensated for the change 
+back from Daylight Savings Time. I'll remind these guys to always enter PPT 
+for the time zone, to be on the safe side.
+
+I hope this solves at least some of the problems for now. I'll let you know 
+as soon as I talk to Swerzbin tomorrow. Let me know if there's anything else.
+
+Kate

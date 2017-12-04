@@ -1,0 +1,5 @@
+You need to path the change at mtr 8055.  You should not path the buyback at 
+mtr 1040 (Only deals 538950 and 702826 should be pathed with volume.  All 
+other deals at mtr 1040 should be pathed with zero volumes.)
+
+D
