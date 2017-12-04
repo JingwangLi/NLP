@@ -27,7 +27,8 @@ from sklearn.cross_validation import train_test_split
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 
-#从文件夹中读取150人的邮件
+##数据清洗
+#从原始文件夹中读取150人的邮件
 root_dir = 'D:nltk_data/corpora/maildir/'
 new_root_dir = 'D:nltk_data/corpora/new_maildir/'
 if not os.path.exists(new_root_dir):
