@@ -1,8 +1,0 @@
-Canada officializes one calc that includes both their price and basis 
-positions.  Risktrac only recognizes the book id to which it assigns the post 
-id.  Since the Canada post id includes two books ids,  we manually assign the 
-same post id to the basis book so that both books are picked up.
-
-
-   
-	Enron North America Corp.
